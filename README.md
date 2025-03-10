@@ -1,0 +1,1 @@
+# Tarea-3.1.-M-todo-de-eliminaci-n-Gaussiana
